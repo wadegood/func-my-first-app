@@ -16,7 +16,19 @@ A dev container provides a containerized developed environment. This means that 
 
 Using the Azure Extension in VSCode, we will provision a function app with an HTTP trigger. This will give us the necessary file structure that we will need for our function app. 
 
+# Step 3: Create a virtual Python environment inside of the dev container. 
 
 
+# Step 4: Understanding the Azure function project structure
 
 
+# Step 5: Debugging an Azure Function Project Locally
+
+
+# Step 5: Provisioning an Azure Function resource in the Azure Portal
+
+
+# Step 6: Deploying your Azure Function project to a Function App
+
+
+# Step 7: Debugging and testing a deployed function app
